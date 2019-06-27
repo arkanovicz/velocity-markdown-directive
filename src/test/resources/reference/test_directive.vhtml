@@ -1,0 +1,7 @@
+BEFORE
+<h1 id="test-markdown-template-for-the-custom-parser"><a href="#test-markdown-template-for-the-custom-parser" id="test-markdown-template-for-the-custom-parser">Test markdown template for the custom parser</a></h1>
+<h2 id="custom-parser-is-needed"><a href="#custom-parser-is-needed" id="custom-parser-is-needed">Custom parser is needed</a></h2>
+<p>some value
+all seems fine</p>
+<p>block macro called with foo=value and bodyContent=here</p>
+AFTER

@@ -1,0 +1,3 @@
+BEFORE
+#markdown('test.md')
+AFTER
